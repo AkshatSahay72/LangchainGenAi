@@ -4,4 +4,5 @@ langchain-google-genai
 langchain-groq
 langchain-openai
 langgraph
-python-env
+python-dotenv
+ipykernel
